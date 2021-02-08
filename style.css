@@ -1,0 +1,10 @@
+p{color: purple;}
+p {
+     font-family: 'Tangerine', serif;
+     font-size: 48px;
+   }
+   .box {
+         display: flex;
+         flex-wrap: wrap;
+         border:10px solid red;
+     }
